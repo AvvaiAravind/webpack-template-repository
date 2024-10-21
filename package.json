@@ -2,7 +2,7 @@
   "name": "webpack-template-repository",
   "version": "1.0.0",
   "description": "Template repository created using the learning from webpack Odin lesson",
-  "main": "index.js",
+  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.prod.js",
