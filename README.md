@@ -163,3 +163,4 @@ module.exports = {
   `git checkout main`
 
 now we can see the new gh-pages in our github from there we can host the website.
+now run `npm install` it will install all the dependencies in the package.json
