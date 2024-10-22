@@ -164,3 +164,5 @@ module.exports = {
 
 now we can see the new gh-pages in our github from there we can host the website.
 now run `npm install` it will install all the dependencies in the package.json
+
+- newly added file loader for loading images
